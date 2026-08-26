@@ -29,13 +29,39 @@ INSTRUCCIONES
             - Empataste
         - Validar la elección que ingrese el usuario
         - Preguntar si desea jugar de nuevo.
+
+🖐️ ✌️ 👊
+🖐🏻 ✌🏻 👊🏻
+🖐🏼 ✌🏼 👊🏼
+🖐🏽 ✌🏽 👊🏽
+🖐🏾 ✌🏾 👊🏾
+🖐🏿 ✌🏿 👊🏿
+
 */
 
-🖐️✌️👊
-🖐🏻✌🏻👊🏻
-🖐🏼✌🏼👊🏼
-🖐🏽✌🏽👊🏽
-🖐🏾✌🏾👊🏾
-🖐🏿✌🏿👊🏿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Paper Scisor Rock</title>
+</head>
+<body>
+
+    <head>
+        
+    </head>
+
+    <body>
+        <div class="wrapper">
+            <div class="game-description">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+        </div>
+    </body>
 
 
+</body>
+</html>
