@@ -1,0 +1,6 @@
+Challenge DOM (SIN IAs)
+Usar documentación de W3Schools
+
+- Seleccionar todos los elementos que tengan la clase "match"
+- Esos elementos están dentro del contenedor "matches"
+- Cada vez que se le dé click a cada "match", éste debe mostrar en consola el resultado que representa

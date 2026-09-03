@@ -24,9 +24,7 @@ function optionClickHandler( e ) {
 
 function matchClickHandler( e ) {
     let description = e.target.innerText;
-    console.log( description );
+    if( e.target.className === "match" ) {
+        console.log( description );
+    }
 }
-
-
-
-
